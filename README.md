@@ -20,7 +20,7 @@
 
 ## Experience
 - 🏕 Play Data, **Data Engineering Boot Camp** 22nd (2023.02~2023.08)
-- 👔 **DAEHONG** Communications INC., **Account Solution team Intern** (2021.06~2021.12)<br>
+- 👔 **DAEHONG Communications INC.**, **Account Solution team Intern** (2021.06~2021.12)<br>
 
   >Data collection, analysis, and monthly report generation for Marketing
 - 👔 **Fiday 6PM**, **Account Exacutive team Intern** (2020.12~2021.02)<br>
