@@ -1,13 +1,17 @@
-(수정중...)
 <img
+  align="center"
   src="https://velog.velcdn.com/images/doodjb/post/194166db-d389-4046-8d2c-93c35b9d3c1e/image.png"
   alt="Header image of JIBEEN's github README"
 />
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIBEEN&count_bg=%2385807D&title_bg=%23FF4141&icon=tinder.svg&icon_color=%23FFCF98&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 <br>
 
 ## Who Am I
-- 🌱 I’m currently learning ML, DL, Python, Docker, django and etc.
+- 🌱 I’m currently learning **Data analysis && Engineering**
 - 🥇 I majored in Advertising & PR
 - 🚅 I'm in Seoul, Korea
 
@@ -15,16 +19,21 @@
 <br>
 
 ## Experience
-- 🎓 Kookmin University , Advertising & PR (2016.03~ )
-- 📊 DAEHONG Communications INC., Account Solution team Intern (2021.06~2021.12)
-  > Data collection, analysis, and monthly report generation of market, consumer, and competitors
-- 🌍 Stafford House International(San Francisco, CA, US) (2019.07~2020.03)
+- 🏕 Play Data, **Data Engineering Boot Camp** 22nd (2023.02~2023.08)
+- 👔 **DAEHONG** Communications INC., **Account Solution team Intern** (2021.06~2021.12)<br>
+
+  >Data collection, analysis, and monthly report generation for Marketing
+- 👔 **Fiday 6PM**, **Account Exacutive team Intern** (2020.12~2021.02)<br>
+
+  >Data analysis, and report generation for Digital advertising 
+- 🌍 **Stafford House International(San Francisco, CA, US)**, English Course completed (2019.07~2020.03)
+- 🎓 **Kookmin University** , Advertising & PR (2016.03~ )
 
 <br>
 <br>
 
 ## What I Like
-- 🎞️ Movie
+- 🎤 Karaoke
 - 🏸 Badminton
 - 🏓 ping-pong
 
@@ -37,135 +46,105 @@
 - 📒 My blog: https://velog.io/@doodjb
 <p align="left">
 <a href="https://linkedin.com/in/jibeenpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibeenpark" height="30" width="40" /></a>
-<a href="https://instagram.com/happpy._.bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happpy._.bin" height="30" width="40" /></a>
+&nbsp; <a href="https://instagram.com/happpy._.bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="happpy._.bin" height="30" width="40" /></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=jibeen&label=Profile%20views&color=fdff7a&style=plastic" alt="jibeen" />
 <br>
 
 ***
-
 <br>
 
-<p align="left"></p>
+<div align=center><h1>🛠 STACKS 🛠</h1></div>
+<br>
 
 ## Programming Languages
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
-<br>
-<br>
-
-## AI/ML
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
-- pandas
-- scikit_learn
-- Tensorflow
-- pytorch
-- seaborn
-- openCV
-
-<br>
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
 <br>
 
 ## Database
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-</p>
-- mongoDB
-- MySQL
-- PostreSQL
-- ELK
-- sqlite
-
-<br>
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">  
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">    
+</div>
 <br>
 
 ## Data Visualization
-<p align="left">
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-</p>
-- Tableau
-- Kibana
-
-<br>
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/tableau-18417d?style=for-the-badge&logo=tableau&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kibana-ef4d98?style=for-the-badge&logo=kibana&logoColor=white">
+</div>
 <br>
 
-## Frontend Development
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p>
-- HTML5
-- CSS
-- Bootstrap
-
-<br>
+## AI/ML
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
+  ⭐<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> 
+</div>
 <br>
 
 ## Backend Development
-<p align="left">
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-</p>
-- rabbitMQ
-- Hadoop
-- Nginx
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/apache airflow-e43920?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
+</div>
+<br>
+
+## Frontend Development
+<div align=left> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+<br>
+
 
 ## Framework
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-</p>
-- django
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</div>
+<br>
 
 ## Operations
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-</p>
-- docker
-- AWS
-- GCP
-
-## Testing
-<p align="left"></p>
-- Selenium
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/Docker-017CEE?style=for-the-badge&&logo=Docker&logoColor=white"/>
+  ⭐<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  ⭐<img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+</div>
+<br>
 
 ## UX/UI
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</p>
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe photoshop-302e46?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+</div>
+<br>
 
 ## Other
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-- Linux
-- Git
+<div align=left> 
+  ⭐<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  ⭐<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+<br>
 
 ## Communication
-<p align="left"></p>
-- Slack
-- Notion
-- Github
+<div align=left> 
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+<br><br><br>
 
-
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibeen&show_icons=true&locale=en&layout=compact" alt="jibeen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibeen&show_icons=true&locale=en&layout=compact" alt="JIBEEN" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibeen&show_icons=true&locale=en" alt="jibeen" /></p>
 
