@@ -39,6 +39,7 @@
 - 🎤 Karaoke
 - 🏸 Badminton
 - 🏓 ping-pong
+- 🎱 Billiards
 
 <br>
 <br>
