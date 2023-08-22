@@ -7,6 +7,11 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIBEEN&count_bg=%2385807D&title_bg=%23FF4141&icon=tinder.svg&icon_color=%23FFCF98&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JIBEEN/count.svg" />
+</p>
+
 </div>
 <br>
 
